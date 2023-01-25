@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-from io import StringIO
 
 
 image = Image.open('iroh_the_cat.png')
