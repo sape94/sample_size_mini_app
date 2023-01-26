@@ -128,8 +128,6 @@ with col7:
         st.write(
             r'Please note that the **confidence level** is equal to 100% minus the standard error.')
 
-# st.info('This is a purely informational message', icon="ℹ️")
-
 ft = """
 
 <style>
